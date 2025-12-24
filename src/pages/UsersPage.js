@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getUsers } from "../services/Api";
+import { getUsers } from "../services/API";
 import UserCard from "../components/UserCard";
 
 function Users() {

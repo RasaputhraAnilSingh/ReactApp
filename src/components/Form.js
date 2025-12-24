@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Sample from "../Sample/sample"
 
 function Form(){
    let [textValue,setTextValue] = useState("")
